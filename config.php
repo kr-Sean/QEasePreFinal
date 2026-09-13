@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$db   = "queue_system";
-$user = "root";
-$pass = "";
+$host = "sql203.infinityfree.com";
+$db   = "if0_42904593_qeasePre";
+$user = "if0_42904593";
+$pass = "GlDs2KOjGMzZLm";
 
 try {
     $pdo = new PDO(

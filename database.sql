@@ -1,5 +1,4 @@
-CREATE DATABASE IF NOT EXISTS queue_system;
-USE queue_system;
+USE if0_42904593_qeasePre;
 
 CREATE TABLE IF NOT EXISTS tickets (
     id INT AUTO_INCREMENT PRIMARY KEY,
